@@ -1,0 +1,25 @@
+{
+  "name": "firestore-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CorwinHiatt/firestore.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CorwinHiatt/firestore/issues"
+  },
+  "homepage": "https://github.com/CorwinHiatt/firestore#readme",
+  "dependencies": {
+    "admin": "^1.4.1",
+    "firebase": "^9.12.1",
+    "firebase-admin": "^11.1.0"
+  }
+}
